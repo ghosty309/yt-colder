@@ -1,4 +1,5 @@
 # YouTube Colder
+### Deprecated: This is not getting any updates any more, and its pretty unestable. Please find another alterantives.
 A simple Node.js project to download YouTube videos.
 ### Usage
 ```node . (youtube video url)```
